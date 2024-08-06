@@ -36,7 +36,7 @@ function checkLogin() {
 
 const routes = createBrowserRouter([
   {
-    path: "/",
+    path: "home",
     element: <App />,
     children: [
       {
@@ -80,7 +80,7 @@ const routes = createBrowserRouter([
     ],
   },
   {
-    path: "/admin",
+    path: "admin",
     element: <Admin />,
     children: [
       {
@@ -98,19 +98,19 @@ const routes = createBrowserRouter([
     ],
   },
   {
-    path: "/lab1",
+    path: "lab1",
     element: <Lab1 />,
   },
   {
-    path: "/lab2",
+    path: "lab2",
     element: <TodoLab2 />,
   },
   {
-    path: "/lab3bai1",
+    path: "lab3bai1",
     element: <VideoPlayer/>,
   },
   {
-    path: "/lab3bai2",
+    path: "lab3bai2",
     element: <TodoList/>,
   },
 

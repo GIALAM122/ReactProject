@@ -1,0 +1,50 @@
+/* AppBar.css */
+.css-hip9hq-MuiPaper-root-MuiAppBar-root {
+  width: 100%; /* Chiều rộng là 100% của phần tử cha */
+  margin: 0 auto; /* Căn giữa phần tử */
+  background-color: #f0f0f0; /* Màu nền */
+  padding: 20px; /* Khoảng cách lề bên trong */
+  border-radius: 8px; /* Bo góc */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Đổ bóng */
+  font-size: 1.2rem; /* Cỡ chữ */
+  font-weight: bold; /* Độ đậm của font chữ */
+  text-align: center; /* Căn giữa nội dung */
+}
+
+
+
+.app-bar {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .menu-button {
+    margin-right: 16px;
+  }
+  
+  .logo {
+    font-family: monospace;
+    font-weight: 700;
+    letter-spacing: .3rem;
+    color: inherit;
+    text-decoration: none;
+    margin-right: 16px;
+  }
+  
+  .nav-buttons {
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-around;
+  }
+  
+  .user-avatar {
+    margin-left: auto;
+  }
+  

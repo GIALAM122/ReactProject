@@ -1,0 +1,129 @@
+.xbvT43_budgetContainer {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.JhgY68_budgetTitle {
+    text-align: center;
+    color: #333;
+}
+
+.mjkK20_budgetForm {
+    margin-bottom: 20px;
+}
+
+.NkLr84_formGroup {
+    margin-bottom: 15px;
+}
+
+.LpNq12_formLabel {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.BvCr45_formInput {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.QwZx23_formButton {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.QwZx23_formButton:hover {
+    background-color: #218838;
+}
+.zYXW8_summaryContainer {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+  }
+  
+  .aBC12_summaryTitle {
+    text-align: center;
+    color: #333;
+  }
+  
+  .dEF34_summaryCard {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .gHI56_summaryCardTitle {
+    font-size: 18px;
+    color: #555;
+  }
+  
+  .jKL78_summaryCardAmount {
+    font-size: 24px;
+    color: #000;
+  }
+  
+  .mNO90_categoryAnalysis {
+    margin-bottom: 20px;
+  }
+  
+  .pQR12_categoryAnalysisTitle {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .sTU34_categoryList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .vWX56_categoryItem {
+    font-size: 16px;
+    color: #555;
+    padding: 5px 0;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .vWX56_categoryItem:last-child {
+    border-bottom: none;
+  }
+  
+  .yZA78_trendAnalysis {
+    margin-top: 20px;
+    text-align: center; /* Center align the content inside the section */
+  }
+  
+  .bCD90_trendAnalysisTitle {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .eFG12_trendChartPlaceholder {
+    display: inline-block; /* Ensure the chart container behaves as an inline element */
+    width: 100%; /* Adjust width to fit the container */
+    max-width: 100%; /* Ensure the chart does not exceed its container */
+    height: 300px; /* Set a fixed height for the chart */
+    margin: 0 auto; /* Center the chart horizontally */
+  }
+  

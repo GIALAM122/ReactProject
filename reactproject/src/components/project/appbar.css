@@ -1,0 +1,37 @@
+/* AppBar.css */
+
+.app-bar {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .menu-button {
+    margin-right: 16px;
+  }
+  
+  .logo {
+    font-family: monospace;
+    font-weight: 700;
+    letter-spacing: .3rem;
+    color: inherit;
+    text-decoration: none;
+    margin-right: 16px;
+  }
+  
+  .nav-buttons {
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-around;
+  }
+  
+  .user-avatar {
+    margin-left: auto;
+  }
+  

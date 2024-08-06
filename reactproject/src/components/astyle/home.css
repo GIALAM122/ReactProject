@@ -1,0 +1,65 @@
+body {
+    font-family: Twemoji Country Flags, Patron, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+    line-height: 1.8; /* Increase line-height */
+    margin: 20px;
+    padding: 0;
+}
+
+.container1 {
+    position: absolute;
+    right: 900px;
+    top: 200px;
+    max-width: 500px; /* Increase max-width */
+    margin: auto;
+    padding: 30px; /* Increase padding */
+}
+
+h1 {
+    text-align: left;
+    color: #333;
+    text-transform: uppercase;
+    border: none;
+    font-size: 2rem; /* Increase font-size */
+}
+
+p {
+    text-align: justify;
+    font-size: 1.2rem; /* Increase font-size */
+}
+
+.css-10vg0a6-MuiResponsiveChart-container {
+    position: absolute;
+    left: 800px;
+    bottom: 330px;
+}
+
+.button-group {
+    margin: 30px 0; /* Increase margin */
+}
+
+.btn {
+    padding: 15px 25px; /* Increase padding */
+    margin: 0 15px; /* Increase margin */
+    border: none;
+    cursor: pointer;
+    font-size: 18px; /* Increase font-size */
+    border-radius: 5px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    color: white;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.btn-secondary:hover {
+    background-color: #5a6268;
+}
